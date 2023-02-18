@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "laravel-mix": "^5.0.5"
+    "laravel-mix": "^6.0.0"
   },
   "dependencies": {}
 }
