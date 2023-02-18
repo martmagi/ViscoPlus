@@ -31,7 +31,7 @@
     <!-- Second block -->
     <div class="row" id="contentrow">
         <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
-            <div class="col-sm-6"><img src="/img/landing/viscoplus.png" alt="ViscoPlus" class="img-responsive"></div>
+            <div class="col-sm-6"><img src="/img/landing/viscoplus_matrix.png" alt="ViscoPlus Matrix" class="img-responsive"></div>
             <div class="col-sm-6">
                 <h2>{{ trans('landing.whatweoffer') }}</h2>
                 <p>{{ trans('landing.whatweoffertext') }}</p>
